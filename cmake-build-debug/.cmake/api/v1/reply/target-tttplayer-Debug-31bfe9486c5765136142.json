@@ -1,0 +1,160 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "tttplayer/libtttplayer.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories",
+			"set_target_properties"
+		],
+		"files" : 
+		[
+			"tttplayer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/Users/elhidze/Desktop/course_bot/tttplayer/../tttlib"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/elhidze/Desktop/course_bot/tttplayer/."
+				},
+				{
+					"isSystem" : true,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1"
+				},
+				{
+					"isSystem" : true,
+					"path" : "/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"
+				},
+				{
+					"isSystem" : true,
+					"path" : "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include"
+				},
+				{
+					"isSystem" : true,
+					"path" : "/Library/Developer/CommandLineTools/usr/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					4
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "tttlib::@8e260066a1b256b8c6c4"
+		}
+	],
+	"id" : "tttplayer::@02208c9b63a03ddc504b",
+	"name" : "tttplayer",
+	"nameOnDisk" : "libtttplayer.a",
+	"paths" : 
+	{
+		"build" : "tttplayer",
+		"source" : "tttplayer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "tttplayer/my_player.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "tttplayer/Agent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tttplayer/Agent.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

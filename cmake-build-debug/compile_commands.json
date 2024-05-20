@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/CMakeFiles/tttlib.dir/events.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/events.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/events.cpp",
+  "output": "tttlib/CMakeFiles/tttlib.dir/events.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/CMakeFiles/tttlib.dir/basic_fields.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/basic_fields.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/basic_fields.cpp",
+  "output": "tttlib/CMakeFiles/tttlib.dir/basic_fields.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/CMakeFiles/tttlib.dir/composed_observer.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/composed_observer.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/composed_observer.cpp",
+  "output": "tttlib/CMakeFiles/tttlib.dir/composed_observer.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/CMakeFiles/tttlib.dir/game_engine.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/game_engine.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/game_engine.cpp",
+  "output": "tttlib/CMakeFiles/tttlib.dir/game_engine.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/tests/.. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/tests/CMakeFiles/test_events.dir/test_events.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/tests/test_events.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/tests/test_events.cpp",
+  "output": "tttlib/tests/CMakeFiles/test_events.dir/test_events.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/tests/.. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/tests/CMakeFiles/test_fields.dir/test_fields.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/tests/test_fields.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/tests/test_fields.cpp",
+  "output": "tttlib/tests/CMakeFiles/test_fields.dir/test_fields.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttlib/tests/.. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttlib/tests/CMakeFiles/test_engine.dir/test_engine.cpp.o -c /Users/elhidze/Desktop/course_bot/tttlib/tests/test_engine.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttlib/tests/test_engine.cpp",
+  "output": "tttlib/tests/CMakeFiles/test_engine.dir/test_engine.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttplayer/../tttlib -I/Users/elhidze/Desktop/course_bot/tttplayer/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttplayer/CMakeFiles/tttplayer.dir/my_player.cpp.o -c /Users/elhidze/Desktop/course_bot/tttplayer/my_player.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttplayer/my_player.cpp",
+  "output": "tttplayer/CMakeFiles/tttplayer.dir/my_player.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttplayer/../tttlib -I/Users/elhidze/Desktop/course_bot/tttplayer/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttplayer/CMakeFiles/tttplayer.dir/Agent.cpp.o -c /Users/elhidze/Desktop/course_bot/tttplayer/Agent.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttplayer/Agent.cpp",
+  "output": "tttplayer/CMakeFiles/tttplayer.dir/Agent.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttplayer/. -I/Users/elhidze/Desktop/course_bot/tttplayer/../tttlib -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttplayer/CMakeFiles/main.dir/main.cpp.o -c /Users/elhidze/Desktop/course_bot/tttplayer/main.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttplayer/main.cpp",
+  "output": "tttplayer/CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/elhidze/Desktop/course_bot/tttplayer/tests/.. -I/Users/elhidze/Desktop/course_bot/tttplayer/tests/../../tttlib -I/Users/elhidze/Desktop/course_bot/tttplayer/../tttlib -I/Users/elhidze/Desktop/course_bot/tttplayer/. -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -isystem /Library/Developer/CommandLineTools/usr/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -o tttplayer/tests/CMakeFiles/mytest.dir/my_test.cpp.o -c /Users/elhidze/Desktop/course_bot/tttplayer/tests/my_test.cpp",
+  "file": "/Users/elhidze/Desktop/course_bot/tttplayer/tests/my_test.cpp",
+  "output": "tttplayer/tests/CMakeFiles/mytest.dir/my_test.cpp.o"
+}
+]

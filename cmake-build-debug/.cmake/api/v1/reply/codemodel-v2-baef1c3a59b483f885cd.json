@@ -1,0 +1,184 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "tttlib",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-tttlib-Debug-e55eff13d06c446b92f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tttlib",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "tttlib/tests",
+					"jsonFile" : "directory-tttlib.tests-Debug-9df021ac4bd293eee649.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "tttlib/tests",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "tttplayer",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-tttplayer-Debug-09ff57c20be46de6e868.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tttplayer",
+					"targetIndexes" : 
+					[
+						0,
+						6
+					]
+				},
+				{
+					"build" : "tttplayer/tests",
+					"jsonFile" : "directory-tttplayer.tests-Debug-1d32de30d44055e54f3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "tttplayer/tests",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "TicTacToe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "main::@02208c9b63a03ddc504b",
+					"jsonFile" : "target-main-Debug-ce3a68da0b36119717ea.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mytest::@be9de2f17f217dd99270",
+					"jsonFile" : "target-mytest-Debug-84b51f5db340a7437e22.json",
+					"name" : "mytest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_engine::@dec76cdb47dd2f4a7f08",
+					"jsonFile" : "target-test_engine-Debug-f664ad6a9e1c1c9bc1af.json",
+					"name" : "test_engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_events::@dec76cdb47dd2f4a7f08",
+					"jsonFile" : "target-test_events-Debug-c8cbfdf3d32bd99c3032.json",
+					"name" : "test_events",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_fields::@dec76cdb47dd2f4a7f08",
+					"jsonFile" : "target-test_fields-Debug-0b7e4d167569aa30e2d7.json",
+					"name" : "test_fields",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tttlib::@8e260066a1b256b8c6c4",
+					"jsonFile" : "target-tttlib-Debug-ca8c93a4000787e62330.json",
+					"name" : "tttlib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "tttplayer::@02208c9b63a03ddc504b",
+					"jsonFile" : "target-tttplayer-Debug-31bfe9486c5765136142.json",
+					"name" : "tttplayer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/elhidze/Desktop/course_bot/cmake-build-debug",
+		"source" : "/Users/elhidze/Desktop/course_bot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

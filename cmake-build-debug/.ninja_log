@@ -1,0 +1,19 @@
+# ninja log v5
+2	761	1715607182926233914	tttlib/tests/CMakeFiles/test_fields.dir/test_fields.cpp.o	b6c07bbc079ab650
+2	75	1716235461635990000	tttplayer/libtttplayer.a	e949eefe5958377a
+821	870	1715607183034456724	tttplayer/tests/mytest	58e0e5c90b7d9ecc
+761	870	1715607183034601141	tttlib/tests/test_fields	995834fd456d697e
+0	441	1714078004279042683	tttlib/CMakeFiles/tttlib.dir/game_engine.cpp.o	5fe4ceec0060afc6
+2	739	1715607182897324346	tttlib/tests/CMakeFiles/test_events.dir/test_events.cpp.o	6e67c0efc0bcbc9d
+3	571	1715608234030326946	tttplayer/CMakeFiles/tttplayer.dir/my_player.cpp.o	3b07fa79d308d460
+1	465	1714078004303519949	tttlib/tests/CMakeFiles/test_engine.dir/test_engine.cpp.o	83a64f54e5b6e113
+2	398	1716235476305626272	tttplayer/CMakeFiles/main.dir/main.cpp.o	920fb811982f7314
+525	566	1714078004406108355	tttlib/tests/test_engine	2f1bc27f690c395e
+0	415	1714078004253827208	tttlib/CMakeFiles/tttlib.dir/composed_observer.cpp.o	33af7ea1a10ea17d
+739	870	1715607183034672849	tttlib/tests/test_events	73b1bb9dbfc7d354
+0	395	1714078004232564950	tttlib/CMakeFiles/tttlib.dir/basic_fields.cpp.o	e1e28c89cd686d35
+3	738	1715607182897325845	tttplayer/tests/CMakeFiles/mytest.dir/my_test.cpp.o	ea1bc6384d2c94aa
+399	440	1716235476348461433	tttplayer/main	c67e53b5064de254
+441	525	1714078004366624000	tttlib/libtttlib.a	59d3a1fba208ac9e
+0	384	1714078004219706211	tttlib/CMakeFiles/tttlib.dir/events.cpp.o	f3b10c1dc8b9b8fa
+0	226	1716241612407416515	build.ninja	d381ec59479c230f
